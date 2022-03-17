@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  background: #f8f8ff;
+  background: #e4e4ec;
   max-width: 800px;
   margin: 0 auto;
   padding: 0 2em 3em;
@@ -51,6 +51,7 @@ img {
 }
 
 .card {
+  background: #f8f8ff;
   display: flex;
   flex-flow: column nowrap;
   border-bottom: 4px solid lightgray;
